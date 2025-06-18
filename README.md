@@ -5,7 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning how to use github
-- 🤔 I’m looking for help with github
-- 📫 How to reach me: @youcan't_reach_me
+- 📫 How to reach me: arnaldinhobjj@gmail.com
 - ⚡ Fun fact: I do rock climbing
