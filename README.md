@@ -1,9 +1,17 @@
-# About me
+# Arnaldo Cavalcanti
 
+## About Me
 
-**arnaldinhobjj/arnaldinhobjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Occupation:** Web Developer
+- **Interests:** Rock climbing, gym, and running
+- **Education/Experience:** Fort Vale
+- **LinkedIn:** [arnaldo-cavalcanti-57b694214](https://www.linkedin.com/in/arnaldo-cavalcanti-57b694214/)
+- **Favorite Quote:** "john-11:35"
 
-Here are some ideas to get you started:
+## Summary
 
-- 📫 How to reach me: arnaldinhobjj@gmail.com
-- ⚡ Fun fact: I do rock climbing
+Hi! I'm Arnaldo Cavalcanti, a passionate web developer with experience at Fort Vale. Outside of coding, you'll find me rock climbing, at the gym, or out for a run. Connect with me on [LinkedIn](https://www.linkedin.com/in/arnaldo-cavalcanti-57b694214/).
+
+> “john-11:35”
+
+---
